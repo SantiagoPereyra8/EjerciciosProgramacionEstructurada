@@ -1,0 +1,15 @@
+C:\Users\polo3\source\repos\Trabajo2\Trabajo2\obj\Debug\net6.0\Trabajo2.csproj.AssemblyReference.cache
+C:\Users\polo3\source\repos\Trabajo2\Trabajo2\obj\Debug\net6.0\Trabajo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polo3\source\repos\Trabajo2\Trabajo2\obj\Debug\net6.0\Trabajo2.AssemblyInfoInputs.cache
+C:\Users\polo3\source\repos\Trabajo2\Trabajo2\obj\Debug\net6.0\Trabajo2.AssemblyInfo.cs
+C:\Users\polo3\source\repos\Trabajo2\Trabajo2\obj\Debug\net6.0\Trabajo2.csproj.CoreCompileInputs.cache
+C:\Users\polo3\source\repos\Trabajo2\Trabajo2\bin\Debug\net6.0\Trabajo2.exe
+C:\Users\polo3\source\repos\Trabajo2\Trabajo2\bin\Debug\net6.0\Trabajo2.deps.json
+C:\Users\polo3\source\repos\Trabajo2\Trabajo2\bin\Debug\net6.0\Trabajo2.runtimeconfig.json
+C:\Users\polo3\source\repos\Trabajo2\Trabajo2\bin\Debug\net6.0\Trabajo2.dll
+C:\Users\polo3\source\repos\Trabajo2\Trabajo2\bin\Debug\net6.0\ref\Trabajo2.dll
+C:\Users\polo3\source\repos\Trabajo2\Trabajo2\bin\Debug\net6.0\Trabajo2.pdb
+C:\Users\polo3\source\repos\Trabajo2\Trabajo2\obj\Debug\net6.0\Trabajo2.dll
+C:\Users\polo3\source\repos\Trabajo2\Trabajo2\obj\Debug\net6.0\ref\Trabajo2.dll
+C:\Users\polo3\source\repos\Trabajo2\Trabajo2\obj\Debug\net6.0\Trabajo2.pdb
+C:\Users\polo3\source\repos\Trabajo2\Trabajo2\obj\Debug\net6.0\Trabajo2.genruntimeconfig.cache
